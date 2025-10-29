@@ -2,6 +2,10 @@
 
 Demo: https://youtu.be/mIehLSNLGu0
 
+
+https://github.com/user-attachments/assets/a254712f-c6c0-497e-b161-86e0bcd7f804
+
+
 This project is a real-time, end-to-end encrypted chat application built with FastAPI, PostgreSQL, and TailwindCSS. It allows users to communicate securely, with all messages encrypted using a public-private key pair, ensuring privacy and data security.
 
 ## Features
