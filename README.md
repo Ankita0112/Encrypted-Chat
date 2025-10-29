@@ -1,5 +1,7 @@
 # Encrypted-Chat
 
+Demo: https://youtu.be/mIehLSNLGu0
+
 This project is a real-time, end-to-end encrypted chat application built with FastAPI, PostgreSQL, and TailwindCSS. It allows users to communicate securely, with all messages encrypted using a public-private key pair, ensuring privacy and data security.
 
 ## Features
